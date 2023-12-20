@@ -1,0 +1,44 @@
+.App {
+    text-align: center;
+  }
+  
+  /* Styling for Navbar */
+  .navbar {
+    margin-bottom: 20px;
+    background-color: grey;
+    font-size: 25px;
+    padding: 5px;
+  }
+
+  .nav-link {
+    margin: 20px; 
+  }
+  
+/* Styling for the card container */
+.card-container {
+    display: flex;
+    justify-content: space-around; /* Adjust as needed */
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  /* Styling for individual cards */
+  .card {
+    padding: 5px;
+    width: 200px; 
+    margin: 10px; 
+    background-color: beige;
+    font-size: 20px;
+  }
+
+Button {
+    background-color: lightblue;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.custom-image {
+  width: 100px; 
+  height: 100px; 
+  object-fit: cover;
+}
