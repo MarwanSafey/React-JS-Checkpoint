@@ -30,21 +30,21 @@ function App() {
           title="Card 1"
           text="This Is Card 1"
           link="Go somewhere"
-          image= {cat} // Pass the image source as a prop
+          image= {cat} 
                 />  
 {/* Card 2*/}
         <Box
           title="Card 2"
           text="This Is Card 2"
           link="Go somewhere"
-          image={dog} // Pass the image source as a prop
+          image={dog} 
                 /> 
 {/* Card 3*/}
         <Box
           title="Card 3"
           text="This Is Card 3"
           link="Go somewhere"
-          image={both} // Pass the image source as a prop
+          image={both} 
                 /> 
         </div>
       </div>
